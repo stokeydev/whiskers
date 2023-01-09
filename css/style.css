@@ -28,6 +28,15 @@ body {
 
 }
 
+/* Block dividers */
+
+.block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: #444;
+}
+
 /* Jumbotron */
 
 .jumbotron {
