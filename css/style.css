@@ -30,8 +30,23 @@ body {
 
 /* Jumbotron */
 
+.jumbotron {
+    background-color: transparent;
+}
+
 .jumbotron-header {
     color: white;
     font-weight: bold;
     margin-bottom: 30px;
+}
+
+.jumbotron .lead {
+    color: #a7a7a7;
+    margin: 25px 0;
+}
+
+.jumbotron small {
+    font-size: 60%;
+    font-style: italic;
+    color: #d0d0d0;
 }
