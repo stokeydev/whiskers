@@ -173,6 +173,10 @@ padding-right: 0;
     color: white;
 }
 
+.quotes .page-header {
+    margin-bottom: 25px;
+}
+
 .feature {
     text-align: center;
     margin-bottom: 40px;
